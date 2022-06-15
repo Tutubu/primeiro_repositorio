@@ -6,3 +6,6 @@
  <br>
  Segunda versão: 
  Refizemos aquilo que foi aprendido.
+ <br>
+ Terceira versão:
+ Aprendemos a adicionar um arquivo novo.
